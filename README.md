@@ -16,6 +16,7 @@
 Оформлено описание обнаруженных дефектов с использованием шаблона.
 → Ссылка на документ:
 https://docs.google.com/spreadsheets/d/1ij0tPd6AMjvveXdqovLYIpHf71aeqUzJL50D4G9CXVU/edit?usp=sharing
+
 Проект выполнен с использованием: PageObject, Selenium и PyTest.
 
 В корневой папке находятся файлы settings.py с тестовыми данными, chromedriver.exe, requirements.txt для установки необходимых для тестирования библиотек.
